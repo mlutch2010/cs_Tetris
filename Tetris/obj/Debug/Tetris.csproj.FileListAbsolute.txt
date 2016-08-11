@@ -1,0 +1,33 @@
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.exe
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\bin\Debug\Tetris.exe
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.HighScoresForm.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris LOCK VARIABLE\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.HighScoresForm.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Mike\Desktop\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.HighScoresForm.resources
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\Mike\Documents\EWU\Fall2013\CSCD 371\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
